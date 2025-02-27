@@ -3,7 +3,7 @@ import java.util.Random;
 //busca binaria -> o vetor tem que estar ordendo -> divide o vetor em dois subvetores
 //até encontrar o valor procurado
 
-public class exBuscaBinaria {
+public class ExBuscaBinaria {
 	public static void main(String[] args) {
 		//criar um array de 1000 posições
 		int [] array = new int[1000];
